@@ -54,6 +54,7 @@ nav {
 
 .nav-brand {
     flex-shrink: 0;
+    font-size: 40px;
 }
 
 .nav-brand a {
